@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="maingame" itemID="56b9e849-00000224" linkageExportForAS="true" linkageClassName="ui.gamplay.object.controller" lastModified="1455024235" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="maingame">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Ball_rotate" selected="true">
+                  <transformationPoint>
+                    <Point x="3" y="11.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
